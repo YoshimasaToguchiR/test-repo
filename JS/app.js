@@ -8,3 +8,10 @@ console.log(miPrimerVariable);
 miPrimerVariable = 20;
 
 console.log(miPrimerVariable);
+
+var a;
+
+var b = 2;
+
+console.log(a);
+console.log(b);
